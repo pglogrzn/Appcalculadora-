@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(this, "No se puede dividir entre 0", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                resultado = num1 / num2;
+                resultado =  num1 / num2;
                 break;
         }
 
